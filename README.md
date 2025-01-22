@@ -11,3 +11,6 @@ sizes, making it suitable for both mobile and desktop views.
   - **Box Model**: Managing margins, padding, and content areas.
   - **Typography**: Choosing and styling fonts for a clean design.
   - **Positioning**: Proper alignment of elements to create a neat layout.
+## Live Demo
+Check out the live demo of the project here:
+[Live Demo]https://lakshmisubbu23.github.io/product-ui-card/
